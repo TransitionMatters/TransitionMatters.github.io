@@ -1,6 +1,6 @@
 ﻿## Welcome to Transition Matters.
  
-This Wiki aims at ChangeMakers in Urban Development and the society in general. Please join us in making this wiki an open exchange of ideas and strategies to make this world a better place for all of us.
+The [Transition Matters Wiki](Transition Matters Wiki) aims at ChangeMakers in Urban Development and the society in general. Please join us in making this wiki an open exchange of ideas and strategies to make this world a better place for all of us.
 
 You can use the [editor on GitHub](https://github.com/TransitionMatters/TransitionMatters.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
