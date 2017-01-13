@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+﻿## Welcome to Transition Matters.
 
 You can use the [editor on GitHub](https://github.com/TransitionMatters/TransitionMatters.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
